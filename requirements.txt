@@ -8,4 +8,6 @@ seaborn
 xgboost
 catboost
 dill
+Flask
+mlflow==2.2.2
 # -e .
